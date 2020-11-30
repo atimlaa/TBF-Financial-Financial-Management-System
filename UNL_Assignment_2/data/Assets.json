@@ -1,0 +1,107 @@
+{
+  "apr": 0.0125,
+  "code": "BX020-32",
+  "broker": "D",
+  "label": "Cash Savings"
+}
+{
+  "apr": 0.005,
+  "code": "GTS12V",
+  "broker": "D",
+  "label": "Checking Account"
+}
+{
+  "quarterlyDividend": 2.45,
+  "baseRateOfReturn": 0.031,
+  "betaMeasure": 0.0017499999999999998,
+  "stockSymbol": "PEP",
+  "sharePrice": 40.08,
+  "code": "123BCC",
+  "broker": "S",
+  "label": "Pepsi"
+}
+{
+  "quarterlyDividend": 2000.0,
+  "baseRateOfReturn": 0.033,
+  "baseOmegaMeasure": 0.033,
+  "totalValue": 30000.6,
+  "code": "RTYQ123",
+  "broker": "P",
+  "label": "Kath Shop"
+}
+{
+  "quarterlyDividend": 5.57,
+  "baseRateOfReturn": 0.0229,
+  "betaMeasure": 0.0,
+  "stockSymbol": "CHI",
+  "sharePrice": 41.91,
+  "code": "N5BURR",
+  "broker": "S",
+  "label": "Chipotle"
+}
+{
+  "apr": 0.0215,
+  "code": "LD6793",
+  "broker": "D",
+  "label": "1-year CD"
+}
+{
+  "quarterlyDividend": 3000.0,
+  "baseRateOfReturn": 0.043,
+  "baseOmegaMeasure": 0.043,
+  "totalValue": 40000.7,
+  "code": "ASDF890",
+  "broker": "P",
+  "label": "Man Shop"
+}
+{
+  "quarterlyDividend": 20.5,
+  "baseRateOfReturn": 0.013000000000000001,
+  "betaMeasure": -7.000000000000001E-4,
+  "stockSymbol": "MST",
+  "sharePrice": 529.8,
+  "code": "QWE123",
+  "broker": "S",
+  "label": "Microsoft"
+}
+{
+  "quarterlyDividend": 12.2,
+  "baseRateOfReturn": 0.0225,
+  "betaMeasure": 0.0013,
+  "stockSymbol": "WAL",
+  "sharePrice": 105.13,
+  "code": "B0I0XM",
+  "broker": "S",
+  "label": "Walmart"
+}
+{
+  "quarterlyDividend": 0.1,
+  "baseRateOfReturn": 0.0235,
+  "betaMeasure": 0.0038,
+  "stockSymbol": "PIX",
+  "sharePrice": 35.4,
+  "code": "ITPIX54",
+  "broker": "S",
+  "label": "Pixar"
+}
+{
+  "quarterlyDividend": 1000.0,
+  "baseRateOfReturn": 0.023,
+  "baseOmegaMeasure": 0.023,
+  "totalValue": 20000.5,
+  "code": "12345D",
+  "broker": "P",
+  "label": "Nepal Shop"
+}
+{
+  "apr": 0.0275,
+  "code": "FD1Y22Y",
+  "broker": "D",
+  "label": "3-year Rollover CD"
+}
+{
+  "apr": 0.034,
+  "code": "MIKA001",
+  "broker": "D",
+  "label": "Roth IRA"
+}

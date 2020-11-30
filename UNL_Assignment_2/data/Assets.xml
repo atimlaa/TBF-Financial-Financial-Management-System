@@ -1,0 +1,95 @@
+<com.tbf.Deposit>
+  <code>BX020-32</code>
+  <broker>D</broker>
+  <label>Cash Savings</label>
+  <apr>0.0125</apr>
+</com.tbf.Deposit><com.tbf.Deposit>
+  <code>GTS12V</code>
+  <broker>D</broker>
+  <label>Checking Account</label>
+  <apr>0.005</apr>
+</com.tbf.Deposit><com.tbf.Stocks>
+  <code>123BCC</code>
+  <broker>S</broker>
+  <label>Pepsi</label>
+  <quarterlyDividend>2.45</quarterlyDividend>
+  <baseRateOfReturn>0.031</baseRateOfReturn>
+  <betaMeasure>0.0017499999999999998</betaMeasure>
+  <stockSymbol>PEP</stockSymbol>
+  <sharePrice>40.08</sharePrice>
+</com.tbf.Stocks><com.tbf.Private>
+  <code>RTYQ123</code>
+  <broker>P</broker>
+  <label>Kath Shop</label>
+  <quarterlyDividend>2000.0</quarterlyDividend>
+  <baseRateOfReturn>0.033</baseRateOfReturn>
+  <baseOmegaMeasure>0.033</baseOmegaMeasure>
+  <totalValue>30000.6</totalValue>
+</com.tbf.Private><com.tbf.Stocks>
+  <code>N5BURR</code>
+  <broker>S</broker>
+  <label>Chipotle</label>
+  <quarterlyDividend>5.57</quarterlyDividend>
+  <baseRateOfReturn>0.0229</baseRateOfReturn>
+  <betaMeasure>0.0</betaMeasure>
+  <stockSymbol>CHI</stockSymbol>
+  <sharePrice>41.91</sharePrice>
+</com.tbf.Stocks><com.tbf.Deposit>
+  <code>LD6793</code>
+  <broker>D</broker>
+  <label>1-year CD</label>
+  <apr>0.0215</apr>
+</com.tbf.Deposit><com.tbf.Private>
+  <code>ASDF890</code>
+  <broker>P</broker>
+  <label>Man Shop</label>
+  <quarterlyDividend>3000.0</quarterlyDividend>
+  <baseRateOfReturn>0.043</baseRateOfReturn>
+  <baseOmegaMeasure>0.043</baseOmegaMeasure>
+  <totalValue>40000.7</totalValue>
+</com.tbf.Private><com.tbf.Stocks>
+  <code>QWE123</code>
+  <broker>S</broker>
+  <label>Microsoft</label>
+  <quarterlyDividend>20.5</quarterlyDividend>
+  <baseRateOfReturn>0.013000000000000001</baseRateOfReturn>
+  <betaMeasure>-7.000000000000001E-4</betaMeasure>
+  <stockSymbol>MST</stockSymbol>
+  <sharePrice>529.8</sharePrice>
+</com.tbf.Stocks><com.tbf.Stocks>
+  <code>B0I0XM</code>
+  <broker>S</broker>
+  <label>Walmart</label>
+  <quarterlyDividend>12.2</quarterlyDividend>
+  <baseRateOfReturn>0.0225</baseRateOfReturn>
+  <betaMeasure>0.0013</betaMeasure>
+  <stockSymbol>WAL</stockSymbol>
+  <sharePrice>105.13</sharePrice>
+</com.tbf.Stocks><com.tbf.Stocks>
+  <code>ITPIX54</code>
+  <broker>S</broker>
+  <label>Pixar</label>
+  <quarterlyDividend>0.1</quarterlyDividend>
+  <baseRateOfReturn>0.0235</baseRateOfReturn>
+  <betaMeasure>0.0038</betaMeasure>
+  <stockSymbol>PIX</stockSymbol>
+  <sharePrice>35.4</sharePrice>
+</com.tbf.Stocks><com.tbf.Private>
+  <code>12345D</code>
+  <broker>P</broker>
+  <label>Nepal Shop</label>
+  <quarterlyDividend>1000.0</quarterlyDividend>
+  <baseRateOfReturn>0.023</baseRateOfReturn>
+  <baseOmegaMeasure>0.023</baseOmegaMeasure>
+  <totalValue>20000.5</totalValue>
+</com.tbf.Private><com.tbf.Deposit>
+  <code>FD1Y22Y</code>
+  <broker>D</broker>
+  <label>3-year Rollover CD</label>
+  <apr>0.0275</apr>
+</com.tbf.Deposit><com.tbf.Deposit>
+  <code>MIKA001</code>
+  <broker>D</broker>
+  <label>Roth IRA</label>
+  <apr>0.034</apr>
+</com.tbf.Deposit>
